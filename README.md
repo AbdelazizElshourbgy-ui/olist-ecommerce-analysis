@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project on the Olist Brazilian E-Commerce public dataset, covering data cleaning, modeling, and a 6-page interactive Power BI dashboard with business recommendations.
 
-![Overview](images/overview.png)
+![Overview](images/Overview.png)
 
 ## 🚀 Interactive Report
 
